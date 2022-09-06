@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yangmoyao940423
 - 👀 I’m interested in movie
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on stduy
+- 💞️ I’m looking to collaborate on git
 - 📫 How to reach me 18621039493
 
 <!---
